@@ -1,0 +1,13 @@
+[Unit]
+Description=Monitor Logging Service
+After=graphical.target
+
+[Service]
+Type=simple
+User=erick
+WorkingDirectory=/home/erick
+ExecStart=/home/erick/apps/monitor/daemon.sh
+Restart=on-failure # or always, on-abort, etc
+
+[Install]
+WantedBy=multi-user.target
