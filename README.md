@@ -10,6 +10,10 @@ Foram abordados os seguintes tópicos:
 * Captura de tela via bash; 
 * Geração de relatório via bash e MySql. 
 
+![Alt Text](https://media0.giphy.com/media/F0KYqsnPDELfjqCV3G/giphy.gif?cid=790b7611be9584656f1108215b68441f7bd2cb42d2d7d485&rid=giphy.gif&ct=g)
+
+
+
 São necessários os seguintes pré-requisitos para a execução do projeto:
 
 * Linux (distribuição à sua escolha); 
